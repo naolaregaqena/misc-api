@@ -1,0 +1,6 @@
+name: Misc API CI
+
+on:
+  push:
+    branches:
+      - main
